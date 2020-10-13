@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotaSQLite</string>
+    <string name="nomeList">Nome:</string>
+    <string name="tipoList">Tipo:</string>
+    <string name="fabricanteList">Vendor:</string>
+    <string name="valorList">Valor:</string>
+</resources>
